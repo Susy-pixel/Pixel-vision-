@@ -1,0 +1,6 @@
+{
+  "name": "PixelVision AI",
+  "description": "Intelligent image classification and visual feature analysis powered by Google Gemini AI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
